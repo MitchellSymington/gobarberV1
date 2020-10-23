@@ -12,6 +12,7 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 - :file_folder: Backend - Node.Js | Express.
 - :computer: Frontend - ReactJs | Sequelize.
 - :iphone: Mobile - React Native | Sequelize.
+- :floppy_disk: PostgreSQL | MongoDB | Redis
 
 ## :open_file_folder: Repositórios
 <a href="https://github.com/MitchellSymington/gobarber-api"># Repositório API</a> </br>
