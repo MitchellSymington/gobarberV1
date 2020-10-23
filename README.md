@@ -8,9 +8,10 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 </p>
  
 ## :rocket: Tecnologias
-- :file_folder: Backend - Node.Js.
-- :computer: Frontend - ReactJs.
-- :iphone: Mobile - React Native.
+- :blue_book: JavaScript
+- :file_folder: Backend - Node.Js | Express.
+- :computer: Frontend - ReactJs | Sequelize.
+- :iphone: Mobile - React Native | Sequelize.
 
 ## :open_file_folder: Repositórios
 <a href="https://github.com/MitchellSymington/gobarber-api"># Repositório API</a> </br>
