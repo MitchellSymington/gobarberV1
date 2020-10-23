@@ -15,7 +15,7 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 ### Repositórios
 <a href="https://github.com/MitchellSymington/gobarber-api"># Repositório API</a> </br>
 <a href="https://github.com/MitchellSymington/gobarber-web"># Repositório WEB</a> </br>
-<a href="https://github.com/MitchellSymington/appgobarber"># Repositório MOBI:E</a> </br>
+<a href="https://github.com/MitchellSymington/appgobarber"># Repositório MOBILE</a> </br>
 
 
 ### Frontend
