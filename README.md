@@ -15,8 +15,8 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 
 ### Frontend
 <p float="left"> 
- <img height="270" src="Captura de Tela 2020-10-22 às 20.19.50.png"/>
- <img height="270" src="Captura de Tela 2020-10-22 às 20.19.40.png"/>
+ <img height="260" src="Captura de Tela 2020-10-22 às 20.19.50.png"/>
+ <img height="260" src="Captura de Tela 2020-10-22 às 20.19.40.png"/>
 </p>
 
 <p float="left"> 
