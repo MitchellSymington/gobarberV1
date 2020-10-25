@@ -22,24 +22,29 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação com
 
 ### Web
 <p float="left"> 
- <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.50.png"/>
- <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.20.png"/>
+ <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.50.png"/>
+ <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.20.png"/>
 </p>
 
 <p float="left"> 
- <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.30.png"/>
- <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.25.png"/>
+ <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.30.png"/>
+ <img height="260" src=".github/Captura de Tela 2020-10-22 às 20.19.25.png"/>
 </p>
 
 ### APP
 <p float="left"> 
- <img height="260" src=".github/"/>
- <img height="260" src=".github/"/>
+ <img height="260" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.41.32.png"/>
+ <img height="260" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.41.39.png"/>
 </p>
 
 <p float="left"> 
- <img height="260" src=".github/"/>
- <img height="260" src=".github/"/>
+ <img height="260" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.58.39.png"/>
+ <img height="260" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.59.24.png"/>
+</p>
+
+<p float="left"> 
+ <img height="260" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.59.29.png"/>
+ <img height="260" src=".github/Simulator Screen Shot - iPhone 11 - 2020-10-25 at 18.59.42.png"/>
 </p>
 
 ```Tecnologias
